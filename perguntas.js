@@ -5,7 +5,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Geografia',
+    'Qual o nome do terceiro protagonista de JoJos Bizarre Adventures?',
     'Qual a capital da França?',
     'A capital da França é Paris'
 )
@@ -18,6 +18,6 @@ criaCartao(
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Onde Santos Dumont estudou?',
+    'Ele estudou no Colégio Culto à Ciência'
 )
